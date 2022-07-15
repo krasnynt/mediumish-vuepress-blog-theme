@@ -4,11 +4,11 @@ tags:
 - note taking
 - Second brain
 - PKM
-title: test
+title: W jaki sposób organizować notatki w Obsidian?
 date: 2022-07-14 22:00:00 +0000
-author: ''
+author: Bartek Jędrol
 featuredimg: "/assets/img/o54ol147ws891_final.png"
-summary: ''
+summary: Jaki sposó organizacji notatek jest najlepszy dla Ciebie?
 
 ---
 ### Dla kogo jest ten artykuł?
