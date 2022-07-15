@@ -11,15 +11,6 @@ featuredimg: "/assets/img/o54ol147ws891_final.png"
 summary: ''
 
 ---
-### TOC
-- 
-- [W skrócie](#W%20skrócie)
-- [Foldery](#Foldery)
-- [#Tagi](#Tagi)
-- [Linki](#Linki)
-- [Podsumowanie](#Podsumowanie)
-
-@magicpaste
 ### Dla kogo jest ten artykuł?
 - Jesteś zainteresowane tworzeniem własnego systemu gromadzenia wiedzy (Second brain, Digital Garden, PKM).
 - Chcesz zrozumieć **w jaki sposób organizować notatki**, poznać sposoby ich grupowania i budowania między nimi relacji tak, aby uniknąć przytłaczającego chaosu.
