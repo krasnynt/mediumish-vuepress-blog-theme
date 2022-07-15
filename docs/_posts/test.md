@@ -60,10 +60,8 @@ Największym kosztem używania folderów jest jednak brak rozwoju kreatywnego my
 ### #Tagi
 
 Na ratunek w walce z organizacją notatek przychodzą tagi, które są łatwym i szybkim rozwiązaniem na szukanie i odfiltrowanie tych samych grup notatek.
-![](../070%20-%20assets/attachments/Pasted%20image%2020220706102447.png)
 
 Zapewniają one więcej elastyczności - głównie dlatego, że pojedyncza notatka może posiadać wiele tag-ów. Tym sposobem notatka jest kategoryzowana do wielu tematów, słów kluczowych równocześnie.
-![](../070%20-%20assets/attachments/Pasted%20image%2020220706102719.png)
 
 Problemem jest ich **brak skalowalności**. Z biegiem czasu kiedy Wasz \[\[Second brain\]\] zacznie przyrastać tagi zaczynają tracić na mocy. Wyobraźcie sobie jak może wyglądać filtrowanie po tagu #artykuł kiedy macie setki artykułów w swojej bazie.
 
@@ -81,8 +79,6 @@ Do graficznej reprezentacji relacji między notatkami używamy _Graph view_. Wid
 
 * nawigować w ramach danej, połączonej grupy notatek
 * łączyć i tworzyć nowe idee i pomysły
-
-![](../070%20-%20assets/attachments/Pasted%20image%2020220707061844.png)
 
 Choć linki stanowią podstawę dla metody Zettelkasten, rozbudowana sieć połączeń oparta na linkach nie gwarantuje jasnego spojrzenia z tak zwanego lotu ptaka.
 
@@ -103,8 +99,6 @@ MOC spełnia dwie rolę jednocześnie:
    * w ten sposób MOC nie ogranicza dostępu do notatek, a wręcz przeciwnie zapewnia im organizację
 
 * dodatkowo **pozycjonuje** notatki względem siebie (zagnieżdżanie, tworzenie struktury drzewiastej) zapewniając najlepszy sposób na dowolne, **manualne sortowanie**
-
-![](Pasted%20image%2020220708201127.png)
 
 Największą zaletą MOC-ów jest jednak łatwa **identyfikacja** poszczególnych notatek oraz możliwość ich **grupowania**.
 
