@@ -1,5 +1,9 @@
 ---
-tags: []
+tags:
+- Obsidian
+- note taking
+- Second brain
+- PKM
 title: test
 date: 2022-07-14 22:00:00 +0000
 author: ''
@@ -7,41 +11,24 @@ featuredimg: "/assets/img/o54ol147ws891_final.png"
 summary: ''
 
 ---
-\### TOC
-
-\- 
-
-\- \[W skrócie\](#W%20skrócie)
-
-\- \[Foldery\](#Foldery)
-
-\- \[#Tagi\](#Tagi)
-
-\- \[Linki\](#Linki)
-
-\- \[Podsumowanie\](#Podsumowanie)
-
-@magicpaste
-
 ###  Dla kogo jest ten artykuł?
 
-\- Jesteś zainteresowane tworzeniem własnego systemu gromadzenia wiedzy (Second brain, Digital Garden, PKM).
+* Jesteś zainteresowane tworzeniem własnego systemu gromadzenia wiedzy (Second brain, Digital Garden, PKM).
 
-\- Chcesz zrozumieć **w jaki sposób organizować notatki**, poznać sposoby ich grupowania i budowania między nimi relacji tak, aby uniknąć przytłaczającego chaosu.
 
-\- Jesteś użytkownikiem aplikacji do notowania umożliwiających link-owanie notatek (Roam Resarch, Obsidian, Logseq). Zmagasz się z często spotykanym dylematem, kiedy użyć: folderu, tagu lub link-u.
+*  Chcesz zrozumieć **w jaki sposób organizować notatki**, poznać sposoby ich grupowania i budowania między nimi relacji tak, aby uniknąć przytłaczającego chaosu.
 
->_In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon this again?_ - Sonke Ahrens, How to Take Smart Notes
 
-\### W skrócie
+*  Jesteś użytkownikiem aplikacji do notowania umożliwiających link-owanie notatek (Roam Resarch, Obsidian, Logseq). Zmagasz się z często spotykanym dylematem, kiedy użyć: folderu, tagu lub link-u.
 
-\- Dwa największe problemy dla systemów typu Second brain, Digital garden, czy PKM to  dotyczą sposobu organizacji notatek - albo **za dużo**, albo **za mało struktury**. 
+> In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon this again?_ - Sonke Ahrens, How to Take Smart Notes
 
-\- Wraz z przyrostem bazy notatek drzewiasta **struktura folderów** staje się problematyczna do utrzymania. 
+###  W skrócie
 
-\- **Tag-owanie** notatek jest dobrym sposobem na ich grupowanie - głównie do celów szukania oraz filtrowania. Ta technika staje się jednak mocno niepraktyczna przy większej bazie informacji.
-
-\- **Link-owanie** pojedynczych notatek jest nisko kosztowe. Praca oparta na link-owaniu sprzyja kreatywnemu myśleniu, natomiast mocno ogranicza wysokopoziomowe spojrzenie na całokształt.
+* Dwa największe problemy dla systemów typu Second brain, Digital garden, czy PKM to  dotyczą sposobu organizacji notatek - albo **za dużo**, albo **za mało struktury**. 
+* Wraz z przyrostem bazy notatek drzewiasta **struktura folderów** staje się problematyczna do utrzymania. 
+* **Tag-owanie** notatek jest dobrym sposobem na ich grupowanie - głównie do celów szukania oraz filtrowania. Ta technika staje się jednak mocno niepraktyczna przy większej bazie informacji.
+* **Link-owanie** pojedynczych notatek jest nisko kosztowe. Praca oparta na link-owaniu sprzyja kreatywnemu myśleniu, natomiast mocno ogranicza wysokopoziomowe spojrzenie na całokształt.
 
 \- Użycie **MOC-a (Map of Content)** łączy zalety stosowania tag-ów oraz link-ów - zapewnia możliwość link-owania notatek bez tracenia poglądu na tak zwany *Big picture*.
 
